@@ -1,0 +1,19 @@
+29119	 
+	- part1 : 개념과 용어(Concepts and Vocabulary)
+	- part2 : 테스팅 프로세스(Testing Process)
+	- part3 : 테스팅 문서화(Testing Documentation)
+	- prat4 : 테스팅 기법(Testing Technique)
+
+
+29148	- Systems and software engineering - Life cycle processes - Requirements engineering
+	  (시스템 및 소프트웨어 공학 - 생명주기 프로세스 - 요구 사항 엔지니어링)
+
+
+iso/iec 25051
+iso/iec 9126-2
+iso/iec 25023
+
+
+
+품질관리를 위한 국내외 주요 표준연구
+
